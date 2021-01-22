@@ -1,0 +1,8 @@
+p span {
+  font-weight: bold;
+}
+
+.card-icon--feed {
+  padding: 10px;
+  color: #d81b60;
+}

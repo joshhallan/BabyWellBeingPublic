@@ -1,0 +1,11 @@
+.childInfo {
+  padding-bottom: 20px;
+}
+
+.childInfo p span {
+  font-weight: bold;
+}
+
+.childInfo button {
+  margin-top: 20px;
+}
